@@ -9,13 +9,13 @@
   - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
   - [Dashboards and Visualizations](#Dashboards-and-Visualizations)
 
-    - [Executive Summary](#Executive Summary)
+    - [Executive Summary](#Executive-Summary)
 
-    - [Time Trends](#Time Trends)
+    - [Time Trends](#Time-Trends)
 
-    - [Supplier Analysis](#Supplier Analysis)
+    - [Supplier Analysis](#Supplier-Analysis)
 
-    - [Product Insights](#Product Insights)
+    - [Product Insights](#Product-Insights)
     
   - [Results](#Results)
   - [Future Work](#Future-Work)
