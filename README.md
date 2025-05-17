@@ -23,14 +23,24 @@
 
 ### Project Overview
 
+This project analyzes public alcohol distribution and sales data from Montgomery County, using Python for data cleaning and Power BI for dashboard development. The dataset includes retail, warehouse, and transfer sales of alcoholic and some non-alcoholic beverages, broken down by supplier, product type, and time period.
+
+The goal of this project is to uncover trends in sales volume, supplier performance, and product category demand across different distribution channels.
 
 ### Project Questions
 
-1.
+1. Which types of alcoholic beverages generate the highest retail sales in Montgomery County, and how have these trends changed over time?
+
+2. Who are the top-performing suppliers by sales volume, and how does their contribution vary by product category? How do the top retail suppliers compare to the top warehouse suppliers?
+
+3. What are the total retail and warehouse sales quantities from 2017-2020? How many products were sold? How do these numbers vary by year?
 
 ### Data Sources
 
-The data in this project is sourced from 
+The data in this project is sourced from a data.gov publicly available .csv file which contains the alchocol sales and transfers (retail and warehouse) within Montgomery county.
+
+Data.gov Montgomery County website link:
+https://catalog.data.gov/dataset/warehouse-and-retail-sales 
 
 ### Tools
 
